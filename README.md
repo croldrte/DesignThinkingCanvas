@@ -33,3 +33,7 @@ A dificuldade de acesso a recursos tecnológicos essenciais, como internet de qu
 - **Testes com Usuários:** Realizar grupos focais e entrevistas com usuários em situações reais de uso, como viajantes ou pessoas em locais públicos, para entender a experiência.
 - **Análise de Dados:** Coletar feedback sobre a usabilidade, precisão dos dados e a efetividade do recurso, ajustando o mapa conforme as necessidades.
 - **Iteração:** Aprimorar as funcionalidades do app com base nos dados coletados e realizar novos testes em diferentes contextos.
+
+*Utilize o Business Model Canvas para estruturar uma ideia de negócio baseada na solução proposta:*
+
+![Business Model Canvas da Conecta Já](business-model-canvas.png)
